@@ -1,3 +1,4 @@
+# script to run and return stats on any book
 
 def main():
     book_path = "books/frankenstein.txt"
